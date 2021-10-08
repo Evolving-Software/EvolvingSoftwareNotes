@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d05e987bfeafcd24",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77c70978069ee49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wanted Technologies.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfea2320d7fcc120",
+    "type": "split",
+    "children": [
+      {
+        "id": "b81c9f6a362f10ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d5e70d09bdddea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1912c053cfc35bd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "776072175943c980",
+    "type": "split",
+    "children": [
+      {
+        "id": "86da4e3252710097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9676becb6887fa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wanted Technologies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e77c70978069ee49",
+  "lastOpenFiles": [
+    "Wanted Technologies.md",
+    "README.md",
+    "Untitled.md"
+  ]
+}
